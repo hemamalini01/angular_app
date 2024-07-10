@@ -1,0 +1,3 @@
+[submodule "StudentRecord"]
+	path = StudentRecord
+	url = https://github.com/hemamalini01/angular_app.git
